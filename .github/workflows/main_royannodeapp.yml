@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'royannodeapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A1B951DA15EF4DFAB298150BCEFBA088 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_06BF24280D764FCE8C01B70021423213 }}
           package: .
